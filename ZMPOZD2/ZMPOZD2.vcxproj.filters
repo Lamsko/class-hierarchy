@@ -30,6 +30,9 @@
     <ClInclude Include="Mammal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Reptile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -42,6 +45,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Mammal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Reptile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
