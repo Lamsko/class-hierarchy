@@ -145,22 +145,58 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Amphibians.h" />
     <ClInclude Include="Animal.h" />
+    <ClInclude Include="Ape.h" />
+    <ClInclude Include="Archeopteryx.h" />
+    <ClInclude Include="Bird.h" />
+    <ClInclude Include="Dog.h" />
+    <ClInclude Include="Feline.h" />
+    <ClInclude Include="Fish.h" />
+    <ClInclude Include="Fox.h" />
+    <ClInclude Include="Frog.h" />
+    <ClInclude Include="Gorilla.h" />
+    <ClInclude Include="Human.h" />
+    <ClInclude Include="Lion.h" />
     <ClInclude Include="Mammal.h" />
+    <ClInclude Include="Orangutan.h" />
+    <ClInclude Include="Platypus.h" />
     <ClInclude Include="Reptile.h" />
+    <ClInclude Include="Shark.h" />
+    <ClInclude Include="Snake.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Tiger.h" />
+    <ClInclude Include="Wolf.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Amphibians.cpp" />
     <ClCompile Include="Animal.cpp" />
+    <ClCompile Include="Ape.cpp" />
+    <ClCompile Include="Archeopteryx.cpp" />
+    <ClCompile Include="Bird.cpp" />
+    <ClCompile Include="Cat.cpp" />
+    <ClCompile Include="Dog.cpp" />
+    <ClCompile Include="Fish.cpp" />
+    <ClCompile Include="Fox.cpp" />
+    <ClCompile Include="Frog.cpp" />
+    <ClCompile Include="Gorilla.cpp" />
+    <ClCompile Include="Human.cpp" />
+    <ClCompile Include="Lion.cpp" />
     <ClCompile Include="Mammal.cpp" />
+    <ClCompile Include="Orangutan.cpp" />
+    <ClCompile Include="Platypus.cpp" />
     <ClCompile Include="Reptile.cpp" />
+    <ClCompile Include="Shark.cpp" />
+    <ClCompile Include="Snake.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Tiger.cpp" />
+    <ClCompile Include="Wolf.cpp" />
     <ClCompile Include="ZMPOZD2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
