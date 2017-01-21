@@ -7,5 +7,7 @@ class Archeopteryx :
 public:
 	Archeopteryx();
 	~Archeopteryx();
+	void f();
+	virtual void vf();
 };
 

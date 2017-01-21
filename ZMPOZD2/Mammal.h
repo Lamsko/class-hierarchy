@@ -6,5 +6,7 @@ class Mammal :
 public:
 	Mammal();
 	~Mammal();
+	void f();
+	virtual void vf();
 };
 

@@ -10,3 +10,11 @@ Human::Human()
 Human::~Human()
 {
 }
+
+void Human::f()
+{
+}
+
+void Human::vf()
+{
+}

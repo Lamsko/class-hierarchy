@@ -6,5 +6,7 @@ class Fox :
 public:
 	Fox();
 	~Fox();
+	void f();
+	virtual void vf();
 };
 

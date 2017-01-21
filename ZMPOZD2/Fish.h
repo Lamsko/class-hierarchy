@@ -6,5 +6,7 @@ class Fish :
 public:
 	Fish();
 	~Fish();
+	void f();
+	virtual void vf();
 };
 

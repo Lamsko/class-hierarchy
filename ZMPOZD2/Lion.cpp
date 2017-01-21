@@ -10,3 +10,11 @@ Lion::Lion()
 Lion::~Lion()
 {
 }
+
+void Lion::f()
+{
+}
+
+void Lion::vf()
+{
+}

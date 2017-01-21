@@ -6,5 +6,7 @@ class Gorilla :
 public:
 	Gorilla();
 	~Gorilla();
+	void f();
+	virtual void vf();
 };
 

@@ -6,5 +6,7 @@ class Reptile :
 public:
 	Reptile();
 	~Reptile();
+	void f();
+	virtual void vf();
 };
 

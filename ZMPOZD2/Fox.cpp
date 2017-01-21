@@ -10,3 +10,11 @@ Fox::Fox()
 Fox::~Fox()
 {
 }
+
+void Fox::f()
+{
+}
+
+void Fox::vf()
+{
+}

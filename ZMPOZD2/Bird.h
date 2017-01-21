@@ -6,5 +6,7 @@ class Bird :
 public:
 	Bird();
 	~Bird();
+	void f();
+	virtual void vf();
 };
 

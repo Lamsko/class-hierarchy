@@ -3,12 +3,20 @@
 
 
 Animal::Animal()
-{
-	cout << "Konstruktor Animal." << endl;
+{	
 }
 
 
 Animal::~Animal()
 {
-	cout << "Destruktor Animal." << endl;
+}
+
+void Animal::f()
+{
+	cout << "Przedstawienie klasy Animal." << endl;
+}
+
+void Animal::vf()
+{
+	cout << "Wirtualne przedstawienie klasy Animal." << endl;
 }

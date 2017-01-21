@@ -151,7 +151,7 @@
     <ClInclude Include="Archeopteryx.h" />
     <ClInclude Include="Bird.h" />
     <ClInclude Include="Dog.h" />
-    <ClInclude Include="Feline.h" />
+    <ClInclude Include="Cat.h" />
     <ClInclude Include="Fish.h" />
     <ClInclude Include="Fox.h" />
     <ClInclude Include="Frog.h" />

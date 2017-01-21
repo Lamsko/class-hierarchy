@@ -6,5 +6,7 @@ class Dog :
 public:
 	Dog();
 	~Dog();
+	void f();
+	virtual void vf();
 };
 

@@ -4,11 +4,17 @@
 
 Mammal::Mammal()
 {
-	cout << "Konstruktor Mammal." << endl;
 }
 
 
 Mammal::~Mammal()
 {
-	cout << "Destruktor Mammal." << endl;
+}
+
+void Mammal::f()
+{
+}
+
+void Mammal::vf()
+{
 }

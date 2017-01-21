@@ -6,5 +6,7 @@ class Frog :
 public:
 	Frog();
 	~Frog();
+	void f();
+	virtual void vf();
 };
 

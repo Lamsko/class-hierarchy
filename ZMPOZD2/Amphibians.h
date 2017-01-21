@@ -6,5 +6,7 @@ class Amphibians :
 public:
 	Amphibians();
 	~Amphibians();
+	void f();
+	virtual void vf();
 };
 

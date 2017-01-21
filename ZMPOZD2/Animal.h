@@ -8,5 +8,7 @@ class Animal
 public:
 	Animal();
 	~Animal();
+	void f();
+	virtual void vf();
 };
 

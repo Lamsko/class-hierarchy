@@ -4,11 +4,17 @@
 
 Reptile::Reptile()
 {
-	cout << "Konstruktor Reptile." << endl;
 }
 
 
 Reptile::~Reptile()
 {
-	cout << "Destruktor Reptile." << endl;
+}
+
+void Reptile::f()
+{
+}
+
+void Reptile::vf()
+{
 }

@@ -1,10 +1,12 @@
 #pragma once
-#include "Feline.h"
+#include "Cat.h"
 class Tiger :
-	public Feline
+	public Cat
 {
 public:
 	Tiger();
 	~Tiger();
+	void f();
+	virtual void vf();
 };
 

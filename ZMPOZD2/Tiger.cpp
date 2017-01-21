@@ -10,3 +10,11 @@ Tiger::Tiger()
 Tiger::~Tiger()
 {
 }
+
+void Tiger::f()
+{
+}
+
+void Tiger::vf()
+{
+}

@@ -10,3 +10,11 @@ Orangutan::Orangutan()
 Orangutan::~Orangutan()
 {
 }
+
+void Orangutan::f()
+{
+}
+
+void Orangutan::vf()
+{
+}

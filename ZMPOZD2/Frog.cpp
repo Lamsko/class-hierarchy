@@ -10,3 +10,11 @@ Frog::Frog()
 Frog::~Frog()
 {
 }
+
+void Frog::f()
+{
+}
+
+void Frog::vf()
+{
+}

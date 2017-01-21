@@ -6,5 +6,7 @@ class Shark :
 public:
 	Shark();
 	~Shark();
+	void f();
+	virtual void vf();
 };
 

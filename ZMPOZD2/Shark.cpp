@@ -10,3 +10,11 @@ Shark::Shark()
 Shark::~Shark()
 {
 }
+
+void Shark::f()
+{
+}
+
+void Shark::vf()
+{
+}

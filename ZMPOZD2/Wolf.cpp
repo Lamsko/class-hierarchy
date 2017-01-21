@@ -10,3 +10,11 @@ Wolf::Wolf()
 Wolf::~Wolf()
 {
 }
+
+void Wolf::f()
+{
+}
+
+void Wolf::vf()
+{
+}

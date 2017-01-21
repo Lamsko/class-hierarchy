@@ -1,12 +1,20 @@
 #include "stdafx.h"
-#include "Feline.h"
+#include "Cat.h"
 
 
-Feline::Feline()
+Cat::Cat()
 {
 }
 
 
-Feline::~Feline()
+Cat::~Cat()
+{
+}
+
+void Cat::f()
+{
+}
+
+void Cat::vf()
 {
 }

@@ -10,3 +10,11 @@ Gorilla::Gorilla()
 Gorilla::~Gorilla()
 {
 }
+
+void Gorilla::f()
+{
+}
+
+void Gorilla::vf()
+{
+}

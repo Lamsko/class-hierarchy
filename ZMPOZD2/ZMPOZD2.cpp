@@ -6,7 +6,7 @@
 #include "Mammal.h"
 #include "Reptile.h"
 #include "Snake.h"
-#include "Feline.h"
+#include "Cat.h"
 #include "Lion.h"
 #include "Tiger.h"
 #include "Bird.h"
@@ -32,7 +32,7 @@ int main()
 	Mammal mammal;
 	Reptile reptile;
 	Snake snake;
-	Feline feline;
+	Cat feline;
 	Lion lion;
 	Tiger tiger;
 	Bird bird;

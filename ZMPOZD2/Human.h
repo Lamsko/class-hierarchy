@@ -6,5 +6,7 @@ class Human :
 public:
 	Human();
 	~Human();
+	void f();
+	virtual void vf();
 };
 

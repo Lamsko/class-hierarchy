@@ -10,3 +10,11 @@ Fish::Fish()
 Fish::~Fish()
 {
 }
+
+void Fish::f()
+{
+}
+
+void Fish::vf()
+{
+}

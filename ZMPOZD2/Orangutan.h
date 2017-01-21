@@ -6,5 +6,7 @@ class Orangutan :
 public:
 	Orangutan();
 	~Orangutan();
+	void f();
+	virtual void vf();
 };
 

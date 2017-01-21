@@ -6,5 +6,7 @@ class Ape :
 public:
 	Ape();
 	~Ape();
+	void f();
+	virtual void vf();
 };
 

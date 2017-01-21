@@ -6,5 +6,7 @@ class Wolf :
 public:
 	Wolf();
 	~Wolf();
+	void f();
+	virtual void vf();
 };
 

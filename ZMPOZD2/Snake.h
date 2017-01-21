@@ -6,5 +6,7 @@ class Snake :
 public:
 	Snake();
 	~Snake();
+	void f();
+	virtual void vf();
 };
 

@@ -10,3 +10,11 @@ Snake::Snake()
 Snake::~Snake()
 {
 }
+
+void Snake::f()
+{
+}
+
+void Snake::vf()
+{
+}

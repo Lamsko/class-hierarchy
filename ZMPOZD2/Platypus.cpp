@@ -10,3 +10,11 @@ Platypus::Platypus()
 Platypus::~Platypus()
 {
 }
+
+void Platypus::f()
+{
+}
+
+void Platypus::vf()
+{
+}

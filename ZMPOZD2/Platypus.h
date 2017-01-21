@@ -8,5 +8,7 @@ class Platypus :
 public:
 	Platypus();
 	~Platypus();
+	void f();
+	virtual void vf();
 };
 

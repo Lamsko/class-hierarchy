@@ -10,3 +10,11 @@ Archeopteryx::Archeopteryx()
 Archeopteryx::~Archeopteryx()
 {
 }
+
+void Archeopteryx::f()
+{
+}
+
+void Archeopteryx::vf()
+{
+}
