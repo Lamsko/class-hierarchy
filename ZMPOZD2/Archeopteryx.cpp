@@ -13,8 +13,10 @@ Archeopteryx::~Archeopteryx()
 
 void Archeopteryx::f()
 {
+	cout << "Przedstawienie klasy Archeopteryx." << endl;
 }
 
 void Archeopteryx::vf()
 {
+	cout << "Wirtualne przedstawienie klasy Archeopteryx." << endl;
 }
